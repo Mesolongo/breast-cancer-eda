@@ -19,7 +19,7 @@ breast-cancer-eda/
 |   ├── boxplots.png
 │   ├── correlation_heatmap.png
 │   ├── histograms.png
-|   ├── paiplot.png
+|   ├── pairplot.png
 │   └── top_correlated_feature.png
 ├── notebook/
 │   └── eda.ipynb
